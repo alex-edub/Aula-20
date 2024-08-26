@@ -55,7 +55,7 @@ setInterval (() =>{
 
 // Foreach, filter e map
 
-let alunos = ['Gisele', 'Pedro','Adriana', 'Pedro', 'Alex', 'Berg']
+alunos = ['Gisele', 'Pedro','Adriana', 'Pedro', 'Alex', 'Berg']
 alunos.forEach(function(aluno, indice){
     console.log(aluno,indice)
 })
